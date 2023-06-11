@@ -1,0 +1,6 @@
+OpenAI response for prompt: multiply 2 into 3 using air
+ *******************
+
+Arithmatic operator
+
+Answer: 6

@@ -1,0 +1,20 @@
+OpenAI response for prompt: write the list of spot I should visit in North India using air
+ *******************
+
+
+
+1. Taj Mahal, Agra
+2. Golden Temple, Amritsar
+3. Jama Masjid, Delhi
+4. Humayun's Tomb, Delhi
+5. Qutub Minar, Delhi
+6. Red Fort, Delhi
+7. Jammu and Kashmir
+8. Rishikesh, Uttarakhand
+9. Chandigarh
+10. Pushkar, Rajasthan
+11. Fatehpur Sikri, Uttar Pradesh
+12. Dharamshala, Himachal Pradesh
+13. Jaipur, Rajasthan
+14. Varanasi, Uttar Pradesh
+15. Goa
